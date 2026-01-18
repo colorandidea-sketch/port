@@ -4,8 +4,8 @@ function buildVCard() {
     'VERSION:3.0',
     'FN:Waled Ibrahim',
     'TITLE:Sales Supervisor',
-    'TEL;TYPE=CELL:+966555666230',
-    'EMAIL;TYPE=INTERNET:waleahm@tasalia.co',
+    'TEL;TYPE=CELL:+966555665230',
+    'EMAIL;TYPE=INTERNET:wibrahim@tasalla.co',
     'ADR;TYPE=WORK:;;Riyadh - Saudi Arabia',
     'ORG:TASALIA',
     'END:VCARD'
